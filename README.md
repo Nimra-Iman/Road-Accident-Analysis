@@ -10,7 +10,7 @@ This project is a Power BI dashboard that visualizes key metrics and trends rela
 - Casualties by Vehicle Type
 ### Secondary KPIs
 - Casualties by Vehicle Type
-- 
+
 ## Dashboard Features
 
 - Monthly Trend Comparison: Comparison of total casualties per month for the current year versus the previous year, providing insights into accident trends over time.
