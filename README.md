@@ -1,6 +1,6 @@
 # Road Accident Dashboard
 
-This project is a Power BI dashboard that visualizes key metrics and trends related to road accidents, providing insights into accident severity, casualty distribution, and other factors influencing road safety. The dashboard aims to help stakeholders analyze accident data and make informed decisions to improve safety measures.
+This project is actually a Power BI dashboard that visualizes key metrics and trends related to road accidents, providing insights into accident severity, casualty distribution, and other factors influencing road safety. The dashboard aims to help stakeholders analyze accident data and make informed decisions to improve safety measures.
 
 ## Key Performance Indicators (KPIs)
 
